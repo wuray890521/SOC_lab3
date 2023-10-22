@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# xsim v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Oct 21 21:30:09 2023
+# Process ID: 137050
+# Current directory: /home/ubuntu/myans
+# Command line: xsim -mode tcl -source {xsim.dir/fir_tb_elab/xsim_script.tcl}
+# Log file: /home/ubuntu/myans/xsim.log
+# Journal file: /home/ubuntu/myans/xsim.jou
+# Running On: ubuntu2004, OS: Linux, CPU Frequency: 2400.002 MHz, CPU Physical cores: 2, Host memory: 10425 MB
+#-----------------------------------------------------------
+source xsim.dir/fir_tb_elab/xsim_script.tcl
+run -all

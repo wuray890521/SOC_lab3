@@ -1,0 +1,8 @@
+0.7
+2020.2
+Apr 18 2022
+15:53:03
+/home/ubuntu/myans/bram/bram11.v,1697938195,verilog,,/home/ubuntu/myans/tb/fir_tb.v,,bram11,,,,,,,,
+/home/ubuntu/myans/rtl/FIR_Logic.v,1697937802,verilog,,,,FIR_Logic,,,,,,,,
+/home/ubuntu/myans/rtl/fir.v,1697937802,verilog,,/home/ubuntu/myans/bram/bram11.v,/home/ubuntu/myans/rtl/FIR_Logic.v,fir,,,,,,,,
+/home/ubuntu/myans/tb/fir_tb.v,1697937802,verilog,,,,fir_tb,,,,,,,,
